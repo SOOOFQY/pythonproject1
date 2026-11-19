@@ -1,0 +1,18 @@
+# 大文件与参考数据（不提交）
+weights/
+assets/
+practice/
+lecture-demos/
+
+# 生成的输出
+*.npz
+*.log
+*.aux
+*.out
+*.toc
+
+# macOS
+.DS_Store
+
+# 本地预览用字体（Overleaf 使用 Noto，无需提交）
+fonts/
