@@ -56,7 +56,8 @@ python run.py --images path/to/a.jpg path/to/b.png --output my_tokens.npz
 - `image_encoder.py`：完成 TODO-01 ~ TODO-06 的实现（本项目核心，唯一需要编辑的文件）。
 - `helpers.py`：提供的数值辅助（LayerNorm / 精确 GELU / softmax / L2 缩放）。
 - `check.py`、`run.py`、`runtime.py`：提供的加载、命令行与参考校验。
-- 报告见 Overleaf 模板 `main.tex`（配套插图 `figs/image_encoder_pipeline.pdf`）。
+- 报告见 Overleaf 模板 `report/main.tex`（配套插图 `report/figs/image_encoder_pipeline.pdf`）。
+- `weights/`、`assets/` 等大文件与参考数据按作业要求未提交，可从课程附件获取。
 
 ## 注意事项
 
